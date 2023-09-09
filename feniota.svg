@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="feniota2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.3389875"
+     inkscape:cx="40.64441"
+     inkscape:cy="65.649151"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="100px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="23.154858,17.661922"
+       orientation="0.98939919,-0.14522138"
+       id="guide7020" />
+    <sodipodi:guide
+       position="7.1790891,6.3830245"
+       orientation="0,-1"
+       id="guide7189" />
+    <sodipodi:guide
+       position="7.297428,7.1927945"
+       orientation="0,-1"
+       id="guide7844" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path12248"
+       style="font-size:19.7556px;-inkscape-font-specification:'STIX, Italic';display:inline;fill:#ffffff;stroke-width:0.264583"
+       d="m 10.977824,3.973967 c -1.6989816,0 -2.509426,0.9091006 -3.0230717,1.8376137 C 7.5003736,6.6215603 7.2637109,7.6880309 7.0266437,8.7943445 H 5.3275226 L 5.2484577,9.604631 h 1.6593302 l -1.2841592,7.684802 c -0.2173118,1.303869 -0.7306225,4.543908 -1.7776693,4.543909 -0.7507128,0 -0.098823,-1.758549 -1.2841594,-1.758549 -0.5136456,0 -0.7901326,0.415259 -0.7901326,0.968416 0,0.691446 0.4936738,1.422135 1.7580322,1.422135 2.706517,0 3.5758995,-4.425192 3.852478,-6.124174 L 8.5082069,9.604631 H 10.364941 L 10.483797,8.7943445 H 8.6069089 L 8.8441039,7.391846 C 9.1404378,5.71262 9.6736655,4.5470584 10.681201,4.5470584 c 0.474135,0 0.513707,0.4740095 0.592729,0.9678996 0.05927,0.4148677 0.256731,0.7704957 0.790132,0.7704957 0.414868,0 0.790133,-0.2962852 0.790133,-0.8691978 0,-0.8494908 -0.671279,-1.4422892 -1.876371,-1.4422889 z m 0.360701,4.8224444 -0.118339,0.8097698 h 11.815816 l 0.118856,-0.8097698 z"
+       sodipodi:nodetypes="sccccccssssccccccscsssccccc" />
+    <g
+       aria-label="a"
+       id="text2535"
+       style="font-size:16.9333px;line-height:1.25;stroke-width:0.264583"
+       transform="translate(1.7843291,2.0493254)">
+      <path
+         d="m 20.86907,10.163545 h -0.863598 l -0.592666,0.778932 h -0.06773 c -0.355599,-0.507999 -0.829732,-0.897465 -1.69333,-0.897465 -2.167462,0 -4.250258,2.455329 -4.250258,5.469456 0,1.99813 0.914398,2.844795 2.065862,2.844795 0.931332,0 1.79493,-0.558799 2.641595,-1.64253 h 0.1016 c -0.03387,0.270932 -0.1016,0.558798 -0.1016,0.812798 0,0.541866 0.321733,0.795865 0.914398,0.795865 1.049865,0 1.74413,-0.812798 2.404529,-1.811863 l -0.338666,-0.254 c -0.220133,0.287867 -0.694265,0.880532 -1.236131,0.880532 -0.253999,0 -0.321733,-0.135466 -0.321733,-0.355599 0,-0.254 0.08467,-0.626532 0.08467,-0.626532 z m -1.913463,2.082796 c 0,0.643466 -0.355599,2.184396 -0.524932,2.861728 -0.304799,1.219198 -1.320797,2.133596 -2.353729,2.133596 -0.711198,0 -1.185331,-0.440266 -1.185331,-1.94733 0,-2.285995 1.100665,-4.605857 2.658528,-4.605857 0.914399,0 1.405464,0.795865 1.405464,1.557863 z"
+         style="font-style:italic;font-family:STIX;-inkscape-font-specification:'STIX, Italic';fill:#ffffff"
+         id="path7191" />
+    </g>
+    <path
+       id="path7421"
+       style="font-size:19.7556px;-inkscape-font-specification:'STIX, Italic';display:inline;fill:#ffffff;stroke-width:0.264583"
+       d="m 7.2974281,19.265539 c -0.1005514,0.346193 -0.2090946,0.770195 -0.2781531,0.80977 l 8.355967,0 c -0.283345,-0.267818 -0.356013,-0.539093 -0.476297,-0.80977 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
